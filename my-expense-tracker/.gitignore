@@ -35,4 +35,4 @@ lerna-debug.log*
 *.njsproj
 *.sln
 *.sw?
-Thumbs.db
+Thumbs.db 
